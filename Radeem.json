@@ -3,10 +3,5 @@
     "code": "VIP777",
     "valid_until_utc": "2026-12-31T23:59:00Z",
     "expires_utc": "2027-01-01T00:00:00Z"
-  },
-  {
-    "code": "BESTMOM2026",
-    "valid_until_utc": "2026-05-14T23:59:00Z",
-    "expires_utc": "2026-05-15T00:00:00Z"
   }
 ]
